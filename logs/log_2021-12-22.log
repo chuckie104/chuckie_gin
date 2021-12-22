@@ -1,0 +1,4 @@
+2021-12-22T17:56:06.542+0800	INFO	middlewares/logger.go:22	/v1/userlist	{"status": 404, "method": "POST", "path": "/v1/userlist", "query": "page=1&pageSize=10", "ip": "127.0.0.1", "user-agent": "PostmanRuntime/7.28.4", "errors": "", "cost": "2.785µs"}
+2021-12-22T17:56:48.182+0800	INFO	middlewares/logger.go:22	/v1/user/userlist	{"status": 404, "method": "POST", "path": "/v1/user/userlist", "query": "page=1&pageSize=10", "ip": "127.0.0.1", "user-agent": "PostmanRuntime/7.28.4", "errors": "", "cost": "2.819µs"}
+2021-12-22T17:57:04.489+0800	INFO	middlewares/logger.go:22	/v1/user/userlist	{"status": 404, "method": "POST", "path": "/v1/user/userlist", "query": "page=1&pageSize=10", "ip": "127.0.0.1", "user-agent": "PostmanRuntime/7.28.4", "errors": "", "cost": "5.243µs"}
+2021-12-22T18:17:07.081+0800	INFO	initialize/mysql.go:20	dial tcp 0.0.0.0:3307: connect: connection refused

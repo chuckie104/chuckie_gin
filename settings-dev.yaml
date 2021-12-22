@@ -1,0 +1,17 @@
+
+# settings-dev.yaml
+
+name: "chuckie-gin"
+port: 8022
+logsAddress: "./logs/"
+
+mysql:
+  name: "root"
+  host: "0.0.0.0"
+  port: 3306
+  password: 123456
+  dbName: "gaojian"
+
+redis:
+  host: "1"
+  port: 6379

@@ -1,0 +1,1 @@
+2021-12-16T14:15:39.683+0800	INFO	middlewares/logger.go:22	/v1/user/login 	{"status": 404, "method": "POST", "path": "/v1/user/login ", "query": "name=123", "ip": "127.0.0.1", "user-agent": "PostmanRuntime/7.28.4", "errors": "", "cost": "223ns"}
